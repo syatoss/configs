@@ -1,0 +1,10 @@
+font:
+  normal:
+    family: FantasqueSansMono Nerd Font
+  size: 20
+
+background_opacity: 0.75
+window:
+  dimensions:
+    columns: 160
+    lines: 48
